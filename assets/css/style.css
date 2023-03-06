@@ -8,4 +8,20 @@ border:none;
 body{
     font-family: lato;
     font: weight 300px;
+    color: #3a3a3a:
+}
+
+h2, h1{
+
+    font-family: Oslo,Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color:#252525;
+
+}
+
+#logo{
+    float: left;
+    font-size: 280%;
+    
 }
