@@ -70,17 +70,17 @@ color:inherit;
 height:600px;
 width:100%;
 background: url('../images/hero-image.webp') no-repeat center center;
-}
-/* animation*/
+
 animation-name: hero-zoom;
 animation-duration: 5s;
-animation-fill-mode: forwards;
-
-@keyframes hero-zoom {
+animation-fill-mode:forwards;
+}
+@keyframes hero-zoom{
     from{
-transform: scale(1);
+        transform:scale(1);
     }
     to{
-transform: scale(1.1);
+        transform:scale(1.1);
     }
 }
+
